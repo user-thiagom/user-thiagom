@@ -1,4 +1,6 @@
-## Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Frontend 💻
+# 👩🏻‍💻 Thiago Mateus
+
+**`Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Frontend 💻`**
 
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade
 - ✍🏼 Atualmente Estudando NodeJs
