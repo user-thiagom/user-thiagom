@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Mateus
+# 👩🏻‍💻 Thiago Fernandes
 
 **`Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Frontend 💻`**
 
