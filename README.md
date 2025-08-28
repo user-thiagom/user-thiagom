@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Fernandes
 
-**`Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Frontend 💻`**
+**`Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Full Stack 💻`**
 
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade
 - ✍🏼 Atualmente Estudando NodeJs
