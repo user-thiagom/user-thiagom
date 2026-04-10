@@ -5,7 +5,7 @@
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade
 - ✍🏼 Atualmente Estudando HTML/CSS/JS + React
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/user-thiagom?cardType=level-alternate&theme=tokyonight&fontFamily=Afacad&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/user-thiagom?cardType=level-alternate&theme=tokyonight&fontFamily=Lato&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
