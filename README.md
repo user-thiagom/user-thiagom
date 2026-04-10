@@ -3,7 +3,7 @@
 **`Olá! Me chamo Thiago e sou aspirante a Desenvolvedor Full Stack 💻`**
 
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade
-- ✍🏼 Atualmente Estudando NodeJs
+- ✍🏼 Atualmente Estudando HTML/CSS/JS + React
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-thiagom&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-thiagom&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
